@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>HTML5 Y CSS3</name>
+
+<description>
+ANIMACION HTML5 Y CSS3
+</description>
+
+<author href="http://experimedia.pe/" email="jonathanccoicca@gmail.com">
+Jonathan Ccoicca Jim�nez
+</author>
+
+<icon src="images/iconoapp.png" />
+</widget>
