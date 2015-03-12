@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+.ui-icon-facebook{
+	background-image:url("../images/face.png");
+	}
+	
+.ui-icon-twitter{
+	background-image:url("../images/twitter.png");
+	}	
+	
+.ui-icon-google{
+	background-image:url("../images/gplus.png");
+	}	
+	
+.ui-icon-youtube{
+	background-image:url("../images/youtube.png");
+	}			
+
+@media only screen and (-webkit-min-device-pixel-ratio:2){
+	
+	.ui-icon-facebook{
+	background-image:url("../images/facehd.png");
+	background_size:18px 18px;
+	}
+
+.ui-icon-twitter{
+	background-image:url("../images/twitterhd.png");
+	background_size:18px 18px;
+	}	
+	
+.ui-icon-google{
+	background-image:url("../images/gplushd.png");
+	background_size:18px 18px;
+	}	
+	
+.ui-icon-youtube{
+	background-image:url("../images/youtubehd.png");
+	background_size:18px 18px;
+	}			
+	
+	}
+	
+.ui-page {
+background:#FFF;
+}
